@@ -1,0 +1,77 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* header */
+.sct-1{
+    background-image:url("img/jumbo.png") ;
+    min-height: 505px;
+    min-width: 1356px;
+    background-size: contain;
+    position: relative;
+    
+}
+ul{
+    position: absolute;
+    left: 35%;
+    min-width: 941px ;
+    margin-top: 1%;
+}
+li{
+    display: inline-block;
+    color: white;
+    font-size: 15px;
+    font-family: Helvetica,Arial,sans-serif;
+    padding-left: 2%;
+    text-align: center;
+    
+}
+.logo{
+    position: absolute;
+    left: 14.5%;
+    margin-top: 0.5%;
+}
+.btn-1{
+    margin-top: 0.5%;
+    position: absolute;
+    right: 14.5%;
+    background-color: white;
+    padding: 7px 16px;
+    border-radius: 40px;
+    border: none;
+}
+.contenitore{
+    color: white;
+    width: 622px;
+    height: 252px;
+    position: absolute;
+    top: 40%;
+    left: 27%;
+}
+h1{
+    font-size: 45px;
+    margin-left: 15%;
+}
+p{
+    font-size: 20px;
+}
+.btn{
+    margin-left: 20%;
+    padding: 7px 20px;
+    border-radius: 40px;
+    border: none;
+    text-align: center;
+    font-size: 15px ;
+}
+.btn-2{
+    background-color: white;
+    color: black;
+}
+.btn-3{
+    background-color: black;
+    color: white;
+    margin-left: 5%;
+}
+/* main */
+
